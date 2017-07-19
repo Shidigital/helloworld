@@ -41,12 +41,4 @@ function suche() {
     }
 };
 
-/*Tests
-function entersuche(e) {
-
-    if (e.keyCode == 13) {
-        suche();
-    } 
-}*/
-
 
